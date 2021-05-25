@@ -1,0 +1,12 @@
+.Form {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.Input{
+width: 300px;
+}
+.Button{
+height: 40px;
+margin-left: 10px !important;
+}
